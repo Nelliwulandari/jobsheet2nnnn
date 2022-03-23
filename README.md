@@ -53,7 +53,7 @@
 ![Screenshot Dashboard Oracle](images/input.jpeg)
 
 # Hasil Screnshoot tugas_praktikum jobsheet 2 material_design
-![Screenshot Dashboard Oracle](images/material_design.jpeg)
+![Screenshot Dashboard Oracle](images/design.jpeg)
 
 # Hasil Screnshoot tugas_praktikum jobsheet 2 scaffold
 ![Screenshot Dashboard Oracle](images/scaffold.jpeg)
