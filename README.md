@@ -5,7 +5,7 @@
 ![Screenshot Dashboard Oracle](images/grid.jpeg)
 
 # Hasil Screnshoot tugas_praktikum jobsheet 2 list
-![Screenshot Dashboard Oracle](images/List .jpeg)
+![Screenshot Dashboard Oracle](images/list.jpeg)
 
 # Hasil Screnshoot tugas_praktikum jobsheet 2 property_alignment
 ![Screenshot Dashboard Oracle](images/property_alignment.jpeg)
